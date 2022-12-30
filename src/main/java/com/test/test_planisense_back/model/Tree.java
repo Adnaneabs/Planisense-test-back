@@ -70,6 +70,7 @@ public class Tree {
                 ", hauteur=" + hauteur +
                 ", developpement='" + developpement + '\'' +
                 ", remarquable='" + remarquable + '\'' +
+                ", geo_point_2d='" + geo_point_2D + '\'' +
                 '}';
     }
 }
